@@ -33,6 +33,7 @@ public class AlertDemoAuto {
 		String text = al.getText();
 		
 		System.out.println(text);
+		System.out.println("xxxxxx");
 		
 		al.accept();
 		
